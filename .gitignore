@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Virtual environments and local caches
+.venv/
+venv/
+env/
+.matplotlib_cache/
+
+# Editors and operating systems
+.idea/
+.vscode/
+[Dd]esktop.ini
+Thumbs.db
+.DS_Store
+
+# Private/raw research data
+*.xlsx
+*.xls
+*.csv
+!examples/*.csv
+
+# Generated models and reports
+models/
+model/
+output/
+outputs/
+tmp/
+*.joblib
+*.pkl
+
+# Build artifacts
+build/
+dist/
+*.spec
+*.exe
