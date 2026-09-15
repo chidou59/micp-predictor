@@ -5,6 +5,10 @@
 ![CI](https://github.com/chidou59/micp-predictor/actions/workflows/ci.yml/badge.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
+<p align="center">
+  <img src="docs/assets/readme-hero.png" alt="MICP 微生物矿化、土体加固与机器学习预测的科研插图" width="100%" />
+</p>
+
 这是一个 Python + CustomTkinter 桌面程序，用于从 `数据表.xlsx` 训练 MICP 加固效果预测模型，并预测 `UCS/kpa` 与 `CCC`。
 
 ## 快速开始
